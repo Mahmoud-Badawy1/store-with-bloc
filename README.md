@@ -1,3 +1,4 @@
 # store-with-bloc
-![Screenshot 2024-07-14 064335](https://github.com/user-attachments/assets/d8823fc9-e457-48db-b3b0-219d36526310)
-![Screenshot 2024-07-14 065405](https://github.com/user-attachments/assets/fcedd4cd-2cc5-4a05-9330-038b7b80c8dc)
+![Screenshot 2024-07-14 064335](https://github.com/user-attachments/assets/b7279da5-8ea7-4008-b9b6-ee46c33e804f)
+
+![Screenshot 2024-07-14 065405](https://github.com/user-attachments/assets/ba6628fb-e0db-4ee8-ad04-23eefb471ded)
